@@ -1,6 +1,6 @@
 TPI lat
 
-http://tpi.lat:8080
+http://tpi.lat:8080/get.php?username=*&password=*&type=m3u
 
 Espejos TPI lat
 
