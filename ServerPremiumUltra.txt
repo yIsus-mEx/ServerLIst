@@ -6,7 +6,7 @@ Espejos PremiumUltra
 
 ----
 
-Ejemplos de usuarios y contraseñas
+Ejemplos de listas con sus usuarios y contraseñas
 
 
 http://premiumultra.xyz:8080/get.php?username=27gu87veca32de38&password=w23ummu98w&type=m3u_plus 
