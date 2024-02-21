@@ -1,7 +1,7 @@
 Molla
 
-http://molla.top:8080/get.php?username=4141659051615946&password=1081659051615946&type=m3u_plus
+http://molla.top:8080/get.php?username=*&password=*&type=m3u
 
 Espejos Molla
 
-http://ickfo.top:8080
+http://ickfo.top:8080/get.php?username=*&password=*&type=m3u
