@@ -2,3 +2,7 @@ MoonsTalker
 
 http://moonstalker.xyz:8080/get.php?username=*&password=*&type=m3u
 http://moonstalker.xyz:8080/get.php?username=*&password=*&type=m3u_plus
+
+Espejos MoonsTalker
+
+
