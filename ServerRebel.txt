@@ -1,0 +1,1 @@
+http://apk.eter-games.com:8880/get.php?username=*&password=*&type=m3u
