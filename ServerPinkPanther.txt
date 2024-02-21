@@ -1,1 +1,7 @@
+pinkpanther
+
 http://pinkpanther.uk:8080/get.php?username=*&password=*&type=m3u
+
+Espejos pinkphanter
+
+http://seguridad3.unexserv.live:25461/get.php?username=*&password=*&type=m3u
