@@ -1,0 +1,64 @@
+InterPanel
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=*&password=*&type=m3u_plus
+
+Espejos InterPanel
+
+---
+
+Ejemplos de listas con usuario y contraseña
+
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=37JJmKtMpz&password=3efCVDRz6w&type=m3u_plus  1  09  23
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=20856409&password=eAqswZqbT7&type=m3u_plus  1  01  2025
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=2190870&password=0978012&type=m3u_plus  01  2025
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=50404109&password=90140410&type=m3u_plus  1  12  24
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=5481096&password=6901845&type=m3u_plus  01  2025
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=3PRmZV3sn7&password=7wHfQd7MWd&type=m3u_plus  1  09  24
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=48713801&password=64871380&type=m3u_plus  1  08  24
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=70809064&password=RrxH8bUcvX&type=m3u_plus  1 n 03  24
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=78018765&password=56781087&type=m3u_plus  1  11  24
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=6rDQzt2NEK&password=7gsTLApnQq&type=m3u_plus  1  06  24
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=9764308&password=zmjskrJmuy&type=m3u_plus  1  04  24
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=Alorenzo&password=lorenzoal&type=m3u_plus  1  01  2025
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=Dxhnm3hm6g&password=ZZGzVtKCjE&type=m3u_plus  1  04  24
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=E9U68XUNqJ&password=FPqZFyr6Cq&type=m3u_plus  1  12  24
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=FELIXISLA&password=qG6kUhps2R&type=m3u_plus  1  09  24
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=grpjesus77765&password=abono&type=m3u_plus  1  04  24
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=jG7Nn2ddqW&password=JHDt46Cr5W&type=m3u_plus  1  01  2025
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=jPZYzNsLdN&password=RNBtnzC5b9&type=m3u_plus  1  06  24
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=Josesu678&password=uQZEN2gvPF&type=m3u_plus  1  07  24
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=MAmora&password=morama&type=m3u_plus  1  01  2025
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=MAmora1&password=morama1&type=m3u_plus  1  01  2025
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=MAR9b7N6xV&password=xXHkv2PWQp&type=m3u_plus  1  06  24  
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=Mariacalv&password=calvmari&type=m3u_plus  1  02  2025
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=VANESAMAIRENA&password=fSZcy2WbE9&type=m3u_plus  1  08  24
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=TAPICERO&password=c7XwUcrVrv&type=m3u_plus  1  04  24
+
+http://interpanelappskycenter.zapto.org:8080/get.php?username=yEhUdq27YF&password=n9RzjCjAF8&type=m3u_plus  1  12  24
+
+
